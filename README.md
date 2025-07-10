@@ -1,4 +1,3 @@
-# cybdel-enterprise
 
 # Cyberdelics.com – Technology Consulting & AI Solutions
 
