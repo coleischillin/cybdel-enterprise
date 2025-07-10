@@ -43,7 +43,7 @@ Cyberdelics.com blends cutting-edge software engineering with creative AI and op
 ## Get in Touch
 
 Ready to elevate your project or automate your workflow?
-Contact us at [info@cyberdelics.com](mailto:info@cyberdelics.com)  
+Contact us at [info@cyberdelics.com](mailto:cole@cyberdelics.com)  
 Visit: [cyberdelics.com](https://cyberdelics.com)
 
 ---
